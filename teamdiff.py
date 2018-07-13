@@ -161,7 +161,7 @@ if __name__=='__main__':
     '''Find the uniqueness of two teams.'''
 
     # defaults
-    season = 2014
+    season = 2018
     username = ''
     password = ''
     source = 'espn'
