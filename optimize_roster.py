@@ -308,7 +308,7 @@ def get_player_stats(score='total_points',
 
 
 
-def optimize(season=2014,
+def optimize(season=2018,
     tolerance=1e-6, budget=100., bench=.1,
     adjustments=None, score="total_points", solver="glpk",
     username='', password='', source='espn', threshold=1., nosolve=False,
@@ -501,7 +501,7 @@ if __name__=='__main__':
     # Run from CLI
 
     # Defaults
-    season = 2014
+    season = 2018
     tolerance = 1e-6
     budget = 100.
     bench = 1e-1
