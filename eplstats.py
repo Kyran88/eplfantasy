@@ -176,7 +176,7 @@ def retryq(msg="Try again?"):
 class Downloader(object):
 
     defaults = {
-        'season' : 2014
+        'season' : 2018
     }
 
     _espn_data = {
